@@ -1,6 +1,10 @@
 # Hw4-Plugins
 
 There are two folders for the plugins. 
+<ul>
+  <li>PlugHw4 is the gain plugin.</li>
+  <li>Pitch Shift is the pitch shifter plugin.</li>
+</ul>
 PlugHw4 is the gain plugin.
 Pitch Shift is the pitch shifter plugin. <br>
 *Professor said I could have two seperate plugins aka the gain and pitch shifter.      
