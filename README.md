@@ -2,7 +2,7 @@
 
 There are two folders for the plugins. 
 1. PlugHw4 is the gain plugin.
-2. Pitch Shift is the pitch shifter plugin. \n
+2. Pitch Shift is the pitch shifter plugin. <br>
 *Professor said I could have two seperate plugins aka the gain and pitch shifter.      
 Steps:
 1. Download the folders and in Juce open an existing project. When defining plugin formats, choose VST3 and AU.
