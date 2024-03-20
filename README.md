@@ -11,7 +11,7 @@ Steps:
 4. Each plugin requires its own project in Juce.
 5. For each project change the global path for the VST in SDK to your VST3 folder.
 6. When compiling the code, compile all. In order to see the visual plugin, compile standalone plugin. You will not hear any sound or will be able to test it. As its only the visual design. In order to test, you can compile the AudioPluginHost however this will only test audio from your built in microphone. You can not run audio in audio plugin host.
-7. In order to have your plugin in your DAW, compile VST as well as VST helper. 
+7. In order to have your plugin in your DAW, compile VST as well as VST helper. <br>
 Notes:
 My plugins may not run in your Juce, depending on the version. This requires updating from your end.
 My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual.
