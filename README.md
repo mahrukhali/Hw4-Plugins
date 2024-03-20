@@ -15,5 +15,7 @@ Steps:
 Notes:
 My plugins may not run in your Juce, depending on the version. This requires updating from your end.
 My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual.
+You might be wondering what a DAW (digital audio workstation) is: an electronic device or application software used for recording, editing and producing audio files.
+Now what should you use: you can use any DAW you prefer, however if you are new like me and want a free DAW use waveform. They also have a very nice guide to load your plugins. 
 
    
