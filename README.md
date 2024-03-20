@@ -13,9 +13,10 @@ Steps:
 6. When compiling the code, compile all. In order to see the visual plugin, compile standalone plugin. You will not hear any sound or will be able to test it. As its only the visual design. In order to test, you can compile the AudioPluginHost however this will only test audio from your built in microphone. You can not run audio in audio plugin host.
 7. In order to have your plugin in your DAW, compile VST as well as VST helper. <br>
 Notes: <br>
-My plugins may not run in your Juce, depending on the version. This requires updating from your end.
-My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual.
-You might be wondering what a DAW (digital audio workstation) is: an electronic device or application software used for recording, editing and producing audio files.
-Now what should you use: you can use any DAW you prefer, however if you are new like me and want a free DAW use waveform. They also have a very nice guide to load your plugins. 
+1. My plugins may not run in your Juce, depending on the version.
+2. This requires updating from your end.
+3. My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual.
+4. You might be wondering what a DAW (digital audio workstation) is: an electronic device or application software used for recording, editing and producing audio files.
+5. Now what should you use: you can use any DAW you prefer, however if you are new like me and want a free DAW use waveform. They also have a very nice guide to load your plugins. 
 
    
