@@ -11,7 +11,7 @@ This plugin consists of a pitch shift and gain.
   <li>When compiling the code, compile all. In order to see the visual plugin, compile standalone plugin. You will not hear any sound or wont be able to test it. As its only the visual design. In order to test, you can compile the AudioPluginHost, however this will only test audio from your built in microphone. You can not play audio in audio plugin host.</li>
   <li> In order to have your plugin in your DAW, compile VST as well as VST helper. </li>
 </ol>  
-<br>
+
 <b>Notes: </b> <br>
 <ul>
   <li>My plugin may not run in your Juce, depending on the version.
