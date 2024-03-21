@@ -2,7 +2,7 @@
 <h3>Demo: https://youtu.be/GNFY5hLH9kg </h3> 
 This plugin consists of a pitch shift and gain. 
 <br> 
-Steps:
+<b>Steps: </b>
 <ol>
   <li>Download the folder and in Juce open an existing project. When defining plugin formats, choose VST3 and AU.</li>
   <li>For plugin characteristics, choose Plugin Midi Input. </li>
@@ -12,7 +12,7 @@ Steps:
   <li> In order to have your plugin in your DAW, compile VST as well as VST helper. </li>
 </ol>  
 <br>
-Notes: <br>
+<b>Notes: </b> <br>
 <ul>
   <li>My plugin may not run in your Juce, depending on the version.
 This requires updating from your end.</li>
