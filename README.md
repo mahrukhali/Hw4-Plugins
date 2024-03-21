@@ -4,7 +4,7 @@ This plugin consists of a pitch shift and gain.
 <br> 
 <b>Steps: </b>
 <ol>
-  <li>Download the folder and in Juce open an existing project. When defining plugin formats, choose VST3 and AU.</li>
+  <li>Download the source folder and in Juce open an existing project. When defining plugin formats, choose VST3 and AU.</li>
   <li>For plugin characteristics, choose Plugin Midi Input. </li>
   <li>You need VST3 plugin as well on your computer in order to run both plugins in your DAW. I used Steinberg. </li>
   <li> Change the global path for the VST in SDK to your VST3 folder. </li>
