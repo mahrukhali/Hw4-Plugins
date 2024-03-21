@@ -13,10 +13,17 @@ Steps:
 </ol>  
 <br>
 Notes: <br>
-My plugin may not run in your Juce, depending on the version.
-This requires updating from your end.
-My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual as for me Juce is located in my applications. I was having issues with the modules path and that is why it needs to be changed for each individual.
-You might be wondering what a DAW (digital audio workstation) is: an electronic device or application software used for recording, editing and producing audio files.
-Now what should you use: you can use any DAW you prefer, however if you are new like me and want a free DAW use waveform. They also have a very nice guide to load your plugins. 
+<ul>
+  <li>My plugin may not run in your Juce, depending on the version.
+This requires updating from your end.</li>
+  <li> My paths for my files are specific to my computer as well as the modules and those need to be changed for every individual as for me Juce is located in my applications. I was having issues with the modules path and that is why it needs to be changed for each individual.</li>
+  <li>You might be wondering what a DAW (digital audio workstation) is: an electronic device or application software used for recording, editing and producing audio files.</li>
+  <li>Now what should you use: you can use any DAW you prefer, however if you are new like me and want a free DAW use waveform. They also have a very nice guide to load your plugins. </li>
+ 
+</ul>
+
+
+
+
 
    
